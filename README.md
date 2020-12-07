@@ -49,11 +49,6 @@ $ curl http://localhost:3000/backdoor/delay
 
 - [zce/dashboard-server](https://github.com/zce/dashboard-server) - A JSON file RESTful API with JWT authorization based on json-server for [zce/dashboard](https://github.com/zce/dashboard)
 
-## License
-
-[MIT](LICENSE) &copy; [汪磊](https://zce.me)
-
-
 
 [travis-image]: https://img.shields.io/travis/zce/locally-server.svg
 [travis-url]: https://travis-ci.org/zce/locally-server
