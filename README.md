@@ -44,17 +44,3 @@ add a delay of 1000ms for each endpoint
 ```sh
 $ curl http://localhost:3000/backdoor/delay
 ```
-
-## Related
-
-- [zce/dashboard-server](https://github.com/zce/dashboard-server) - A JSON file RESTful API with JWT authorization based on json-server for [zce/dashboard](https://github.com/zce/dashboard)
-
-
-[travis-image]: https://img.shields.io/travis/zce/locally-server.svg
-[travis-url]: https://travis-ci.org/zce/locally-server
-[dependency-image]: https://img.shields.io/david/zce/locally-server.svg
-[dependency-url]: https://david-dm.org/zce/locally-server
-[devdependency-image]: https://img.shields.io/david/dev/zce/locally-server.svg
-[devdependency-url]: https://david-dm.org/zce/locally-server?type=dev
-[style-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
-[style-url]: https://standardjs.com/
